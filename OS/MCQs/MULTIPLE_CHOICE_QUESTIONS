@@ -159,6 +159,89 @@ C) Batch control language (BCL)
 D) Monitor control language (MCL)
 ANS-A) Job control language (JCL)
 
+1. What is an Operating System? 
+a) Software that manages hardware resources
+b) Hardware that executes software
+c) A language for programming
+d) None of the above
+Answer: a) Software that manages hardware resources
+
+2. Which of the following is NOT a function of an OS?
+a) Memory management 
+b) Process scheduling 
+c) Compiling code 
+d) File system management
+Answer: c) Compiling code
+
+3. Which part of the OS runs continuously?
+a) Kernel
+b) Application software 
+c) Device drivers 
+d) GUI
+Answer: a) Kernel
+
+4. Which type of software is an operating system? 
+a) System software 
+b) Application software 
+c) Utility software 
+d) None of the above
+Answer: a) System software
+
+5. What is the main function of an OS? 
+a) Manage computer resources 
+b) Execute user applications 
+c) Provide an interface to the user 
+d) All of the above 
+Answer: d) All of the above
+
+6. Which OS type processes jobs in a sequential manner?
+a) Real-Time OS 
+b) Time-Sharing OS 
+c) Batch OS
+d) Distributed OS 
+Answer: c) Batch OS
+
+7. Which OS type allows multiple users to access the system at the same time? 
+a) Single-user OS 
+b) Time-sharing OS 
+c) Embedded OS 
+d) None of the above 
+Answer: b) Time-sharing OS
+
+8. Which OS is used for real-time applications? 
+a) Windows 
+b) Linux 
+c) RTOS 
+d) MacOS 
+Answer: c) RTOS
+
+9. Which OS can be found in smartphones? 
+a) Unix b) Windows Server c) Android d) Fedora
+Answer: c) Android
+
+10. Which OS type controls multiple computers connected in a network? 
+a) Network OS b) Real-Time OS c) Embedded OS d) Batch OS 
+Answer: a) Network OS
+
+11. Which memory management technique divides memory into fixed sizes? 
+a) Segmentation b) Paging c) Contiguous allocation d) Swapping 
+Answer: b) Paging
+
+12. What is the role of virtual memory? 
+a) Increase cache size b) Provide additional RAM using secondary storage c) Improve processor speed d) Manage user access
+Answer: b) Provide additional RAM using secondary storage
+
+13. Which memory allocation technique allows variable-sized memory blocks? 
+a) Paging b) Segmentation c) Fixed partitioning d) Fragmentation
+Answer: b) Segmentation
+
+14. What type of fragmentation occurs in paging?
+a) Internal b) External c) Both d) None
+Answer: a) Internal
+
+15. Which algorithm selects the oldest page for replacement?
+a) LRU b) FIFO c) Optimal d) Random 
+Answer: b) FIFO
 
 
 
